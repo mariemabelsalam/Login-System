@@ -1,0 +1,37 @@
+body {
+    background-color: #22333C;
+}
+
+/* form {
+    
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+} */
+
+h1 {
+    color: rgb(23, 162, 184);
+    font-weight: 500;
+    font-size: 40px;
+}
+
+.form-control {
+    background-color: transparent;
+} 
+button {
+    border: solid 1px rgb(23, 162, 184);
+    background-color: transparent;
+    color: rgb(23, 162, 184);
+    width: 90%;
+    transition: all 1s;
+}
+
+button:hover {
+    border: solid 1px transparent;
+    background-color: rgb(23, 162, 184);
+    color: white;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+   text-decoration:underline;
+}
